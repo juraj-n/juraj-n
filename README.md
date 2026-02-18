@@ -3,7 +3,7 @@ I'm a 🎓 Computer Science student at the University of Žilina 🧠 Faculty of
 
 ### Projects
 - ggEncounter: basic D&D encounter game area ( https://github.com/juraj-n/P_ggEncounter )
-- ggTM: CLI task manager ( https://github.com/juraj-n/P_ggTM )
+- ggTM: CLI task manager ( https://github.com/juraj-n/P_ggTM ) = working on
 
 ### Semestral Works
 <!--
