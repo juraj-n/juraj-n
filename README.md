@@ -2,7 +2,7 @@
 
 ### Projects
 - ggEncounter: simple help for D&D DMs
-    - 
+    - https://github.com/juraj-n/P_ggEncounter
 
 ### Semestral Works
 <!--
