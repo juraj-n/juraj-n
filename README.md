@@ -6,6 +6,9 @@ I'm a 🎓 Computer Science student at the University of Žilina 🧠 Faculty of
 - ggTM: CLI task manager ( https://github.com/juraj-n/P_ggTM ) = working on
 
 ### Semestral Works
+- ggTwenty: D&D Dungeon Master's tool ( https://github.com/juraj-n/ggTwenty )
+- ggSnake: Simple TUI Snake game with client-server architecture ( https://github.com/juraj-n/ggSnake )
+- SerpEncounter: Mobile application - D&D initiative tracker tool ( https://github.com/juraj-n/SerpEncounter )
 <!--
 **juraj-n/juraj-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
