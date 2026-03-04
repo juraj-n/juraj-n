@@ -2,7 +2,7 @@
 I'm a 🎓 Computer Science student at the University of Žilina 🧠 Faculty of Management science and Informatics 💻 Learning programming and software development.
 
 ### Projects
-- ggEncounter: basic D&D encounter game area ( https://github.com/juraj-n/P_ggEncounter )
+- [ggEncounter](https://github.com/juraj-n/P_ggEncounter): basic D&D encounter game area
 - ggTM: CLI task manager ( https://github.com/juraj-n/P_ggTM ) = working on
 
 ### Semestral Works
