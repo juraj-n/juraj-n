@@ -2,24 +2,10 @@
 I'm a 🎓 Computer Science student at the University of Žilina 🧠 Faculty of Management science and Informatics 💻 Learning programming and software development.
 
 ### Projects
-- [ggEncounter](https://github.com/juraj-n/P_ggEncounter): basic D&D encounter game area
-- ggTM: CLI task manager ( https://github.com/juraj-n/P_ggTM ) = working on
+- [ggEncounter](https://github.com/juraj-n/P_ggEncounter) - basic D&D encounter game area
+- [ggTM](https://github.com/juraj-n/P_ggTM) - CLI task manager `WORKING ON`
 
 ### Semestral Works
-- ggTwenty: D&D Dungeon Master's tool ( https://github.com/juraj-n/ggTwenty )
-- ggSnake: Simple TUI Snake game with client-server architecture ( https://github.com/juraj-n/ggSnake )
-- SerpEncounter: Mobile application - D&D initiative tracker tool ( https://github.com/juraj-n/SerpEncounter )
-<!--
-**juraj-n/juraj-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [ggTwenty](https://github.com/juraj-n/ggTwenty) - D&D Dungeon Master's tool
+- [ggSnake](https://github.com/juraj-n/ggSnake) - Simple TUI Snake game with client-server architecture
+- [SerpEncounter](https://github.com/juraj-n/SerpEncounter) - Mobile application (D&D initiative tracker tool)
