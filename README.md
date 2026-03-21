@@ -2,8 +2,11 @@
 I'm a 🎓 Computer Science student at the University of Žilina 🧠 Faculty of Management science and Informatics 💻 Learning programming and software development.
 
 ### Projects
-- [ggEncounter](https://github.com/juraj-n/P_ggEncounter) - basic D&D encounter game area
-- [ggTM](https://github.com/juraj-n/P_ggTM) - CLI task manager `WORKING ON`
+- [ggEncounter](https://github.com/juraj-n/P_ggEncounter) - Basic D&D encounter game area
+- [ggTM](https://github.com/juraj-n/P_ggTM) - CLI task manager `UNFINISHED`
+
+### Bachelor's thesis
+- [Spectra comparison](https://github.com/juraj-n/BC) - Biomedical spectra comparison module `WORKING ON`
 
 ### Semestral Works
 - [ggTwenty](https://github.com/juraj-n/ggTwenty) - D&D Dungeon Master's tool
