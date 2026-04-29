@@ -6,7 +6,7 @@ I'm a 🎓 Computer Science student at the University of Žilina 🧠 Faculty of
 - [ggTM](https://github.com/juraj-n/P_ggTM) - CLI task manager `UNFINISHED`
 
 ### Bachelor's thesis
-- [Spectra comparison](https://github.com/juraj-n/BC) - Biomedical spectra comparison module `WORKING ON`
+- [Spectra comparison](https://github.com/juraj-n/BC) - Biomedical spectra comparison module
 
 ### Semestral Works
 - [ggTwenty](https://github.com/juraj-n/ggTwenty) - D&D Dungeon Master's tool
