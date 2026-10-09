@@ -9,6 +9,7 @@ I'm a 🎓 Computer Science student at the University of Žilina 🧠 Faculty of
 - [Spectra comparison](https://github.com/juraj-n/BC) - Biomedical spectra comparison module
 
 ### Semestral Works
+- [gg-ds](https://github.com/juraj-n/ADS2.git) - Implementation of Data Structures `WORKING ON`
 - [ggTwenty](https://github.com/juraj-n/ggTwenty) - D&D Dungeon Master's tool
 - [ggSnake](https://github.com/juraj-n/ggSnake) - Simple TUI Snake game with client-server architecture
 - [SerpEncounter](https://github.com/juraj-n/SerpEncounter) - Mobile application (D&D initiative tracker tool)
