@@ -3,7 +3,6 @@ I'm a 🎓 Computer Science student at the University of Žilina 🧠 Faculty of
 
 ### Projects
 - [ggEncounter](https://github.com/juraj-n/P_ggEncounter) - Basic D&D encounter game area
-- [ggTM](https://github.com/juraj-n/P_ggTM) - CLI task manager `UNFINISHED`
 
 ### Bachelor's thesis
 - [Spectra comparison](https://github.com/juraj-n/BC) - Biomedical spectra comparison module
